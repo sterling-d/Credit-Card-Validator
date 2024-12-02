@@ -33,6 +33,9 @@ Name: Sterling Davis
 Email: sterlingdayvis@gmail.com
 LinkedIn: www.linkedin.com/in/sterlingdavis1
 
+---
 
+## License
 
+MIT
 
