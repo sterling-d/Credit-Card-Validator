@@ -16,10 +16,11 @@ This program runs on Java SDK openjdk-22 and includes the following libraries an
 
 To use the credit card validator application simply clone the repository and upload the file to either VS Code or IntelliJ. In this case, IntelliJ was used to program this application. Once the file is uploaded to an IntelliJ terminal, they may begin the program by clicking on the green arrow symbol within the upper-right portion of the page. 
 
-<img width="933" alt="Screenshot 2024-11-30 at 9 13 43 AM" src="https://github.com/user-attachments/assets/4e51e3fd-3680-447a-8369-1fb2fc46bd17">
+<img width="921" alt="Screenshot 2024-12-02 at 2 09 56 PM" src="https://github.com/user-attachments/assets/3e87f97f-be98-48e0-bfb2-ec420756d48e">
 
 After clicking on the green arrow, the user will be prompted to begin the program at the bottom of the page: 
 
-<img width="1375" alt="Screenshot 2024-11-30 at 9 13 51 AM" src="https://github.com/user-attachments/assets/1ed8c80f-fad6-460a-9f56-ef7ebf764a6d">
+<img width="1392" alt="Screenshot 2024-12-02 at 2 09 17 PM" src="https://github.com/user-attachments/assets/2a8acc48-d0eb-4f0a-af08-3bf0a6f72037">
+
 
 
